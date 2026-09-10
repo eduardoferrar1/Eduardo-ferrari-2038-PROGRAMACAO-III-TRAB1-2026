@@ -1,0 +1,15 @@
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\bin\Debug\net8.0\ExerciciosConsoleNET8.exe
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\bin\Debug\net8.0\ExerciciosConsoleNET8.deps.json
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\bin\Debug\net8.0\ExerciciosConsoleNET8.runtimeconfig.json
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\bin\Debug\net8.0\ExerciciosConsoleNET8.dll
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\bin\Debug\net8.0\ExerciciosConsoleNET8.pdb
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\ExerciciosConsoleNET8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\ExerciciosConsoleNET8.AssemblyInfoInputs.cache
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\ExerciciosConsoleNET8.AssemblyInfo.cs
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\ExerciciosConsoleNET8.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\ExerciciosConsoleNET8.dll
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\refint\ExerciciosConsoleNET8.dll
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\ExerciciosConsoleNET8.pdb
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\ExerciciosConsoleNET8.genruntimeconfig.cache
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\ref\ExerciciosConsoleNET8.dll
+C:\Users\eduar\Downloads\ExerciciosConsoleNET8\ExerciciosConsoleNET8\obj\Debug\net8.0\Exercici.E8509366.Up2Date
